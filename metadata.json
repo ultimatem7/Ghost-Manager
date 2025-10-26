@@ -1,0 +1,6 @@
+
+{
+  "name": "GhostManager Compliance AI",
+  "description": "An email compliance checker with a multi-agent AI knowledge base. It detects HIPAA/FDA violations, answers compliance questions with specialized agents, and persists all data locally. Users can manage agents and export/import their knowledge base.",
+  "requestFramePermissions": []
+}
